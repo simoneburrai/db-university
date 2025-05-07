@@ -1,0 +1,7 @@
+Ciao ragazzi,
+nome repo: db-university
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
+Qui trovate anche l'esempio visto a lezione:
+https://docs.google.com/spreadsheets/d/1r8PR21_fMqQS7GeY78GRZvn6iTBZZUHTOrDEOU_e2EA/edit?usp=sharing
+Buon lavoro! :spock-hand:
